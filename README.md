@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**a1excoder/a1excoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alex, I work **SOC analyst**, love Networks, Programming & Reverse engineering.
 
-Here are some ideas to get you started:
+- Website: https://a1excoder.xyz
+- YouTube: https://www.youtube.com/@a1excoder1337
+- Habr: https://habr.com/ru/users/a1excoder
+- Medium: https://medium.com/@a1excoder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Articles:
+- [Bad USB - сильнее чем кажется на первый взгляд](https://a1excoder.xyz/bad-usb-silnee-chem-kazhetsia-na-pervyi-vzgliad.html)
+- [ACE через WireGuard конфиг](https://a1excoder.xyz/ace-cherez-wireguard-konfig.html)
